@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+.inner {
+  max-width: 840px;
+}
+
+#header_wrap .inner {
+  max-width: 1340px;
+  padding: 50px 10px 30px 10px;
+}
