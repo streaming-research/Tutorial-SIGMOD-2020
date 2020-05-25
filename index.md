@@ -18,7 +18,7 @@ Stream processing has been an active research field for more than 20 years, but 
 
 ## Slides and Videos
 
-## Cite
+## Cite ([Preprint PDF](https://cda-group.github.io/papers/SIGMOD-streams.pdf))
 
 ```
 @inproceedings{carbone2020beyond,
