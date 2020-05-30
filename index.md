@@ -18,17 +18,18 @@ Stream processing has been an active research field for more than 20 years, but 
 
 ## Slides and Videos
 
-## Cite ([Preprint PDF](https://cda-group.github.io/papers/SIGMOD-streams.pdf))
+## Cite ([PDF](https://dl.acm.org/doi/abs/10.1145/3318464.3383131))
 
 ```
-@inproceedings{carbone2020beyond,
-  title={Beyond Analytics: the Evolution of Stream Processing Systems},
-  author={Carbone, Paris and Fragkoulis, Marios and Kalavri, Vasiliki and Katsifodimos, Asterios},
-  booktitle={Proceedings of the 2020 International Conference on Management of Data},
-  doi = {10.1145/3318464.3383131},
-  year={2020}
+@inproceedings{10.1145/3318464.3383131,
+author = {Carbone, Paris and Fragkoulis, Marios and Kalavri, Vasiliki and Katsifodimos, Asterios},
+title = {Beyond Analytics: The Evolution of Stream Processing Systems},
+year = {2020},
+isbn = {9781450367356},
+doi = {10.1145/3318464.3383131},
+booktitle = {Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
+pages = {2651–2658}
 }
 ```
-
 
 ## Related Papers
