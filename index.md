@@ -18,6 +18,13 @@ Stream processing has been an active research field for more than 20 years, but 
 
 ## Slides and Videos
 
+1. Introduction and fundamentals
+2. Time, order, and progress
+3. State management and guarantees
+4. Advanced fault recovery and high availability
+5. Load management and elasticity
+6. Prospects and discussion
+
 ## Cite ([PDF](https://dl.acm.org/doi/abs/10.1145/3318464.3383131))
 
 ```
