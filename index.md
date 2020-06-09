@@ -10,7 +10,7 @@ layout: default
 - Part II: Time, Order, & Progress
 - Part III: State Management
 
-### Session 2: 1:30 PM - 3:30 PM PDT
+### Session 2: 1:30 PM - 3:00 PM PDT
 - Part IV: Fault Recovery & High Availability
 - Part V: Load Management & Elasticity
 - Part VI: Prospects
