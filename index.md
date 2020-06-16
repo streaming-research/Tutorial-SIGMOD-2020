@@ -29,7 +29,7 @@ Stream processing has been an active research field for more than 20 years, but 
 ## Slides and Videos
 
 1. Introduction and fundamentals [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part1-introduction.pdf)
-2. Time, order, and progress [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part2-time.pdf)
+2. Time, order, and progress [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/raw/master/slides/part2-time.pdf)
 3. State management and guarantees [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part3-state-management.pdf)
 4. Advanced fault recovery and high availability [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part4-Fault-HA.pdf)
 5. Load management and elasticity [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part5-load-management.pdf)
