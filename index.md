@@ -28,12 +28,12 @@ Stream processing has been an active research field for more than 20 years, but 
 
 ## Slides and Videos
 
-1. Introduction and fundamentals [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part1-introduction.pdf)
-2. Time, order, and progress [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part2-time.pdf)
-3. State management and guarantees [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part3-state-management.pdf)
-4. Advanced fault recovery and high availability [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part4-Fault-HA.pdf)
-5. Load management and elasticity [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part5-load-management.pdf)
-6. Prospects and discussion [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part6-prospects.pdf)
+1. Introduction and fundamentals [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part1-introduction.pdf) [[Video]](https://youtu.be/6qmwLKzXdgM)
+2. Time, order, and progress [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part2-time.pdf) [[Video]](https://youtu.be/sWcMx52eP58)
+3. State management and guarantees [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part3-state-management.pdf) [[Video]](https://youtu.be/Zgy5a5tBOco)
+4. Advanced fault recovery and high availability [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part4-Fault-HA.pdf) [[Video - Part I]](https://youtu.be/p3zXV2w_MgM) [[Video - Part II]](https://youtu.be/28CRUcFAGPs)
+5. Load management and elasticity [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part5-load-management.pdf) [[Video]](https://youtu.be/Pxe0M-mprOM)
+6. Prospects and discussion [[Slides]](https://github.com/streaming-research/Tutorial-SIGMOD-2020/blob/master/slides/part6-prospects.pdf) [[Video]](https://youtu.be/DW9kU7gCL8A)
 
 ## Cite ([PDF](https://dl.acm.org/doi/abs/10.1145/3318464.3383131))
 
