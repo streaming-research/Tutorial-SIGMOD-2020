@@ -4,7 +4,7 @@ layout: default
 
 ## Tutorial Information
 ### Wednesday, June 17 2020
-#### Join us on [Zoom](https://acm-org.zoom.us/j/93450885761?pwd=OGZmekwyRFR2Q3ZTd3VwL3hsc0JlUT09) and [Slack](https://app.slack.com/client/T014VV3J13N/C01530W6K7B)
+#### Join us on [Zoom](https://acm-org.zoom.us/j/93450885761?pwd=OGZmekwyRFR2Q3ZTd3VwL3hsc0JlUT09) and [Slack](https://join.slack.com/t/sigmodpods/shared_invite/zt-em1btw2v-tTI9OXRtzi4apsMaCoqjTA)
 
 #### Session 1: 10:30 AM - 12:00 PM PDT
 - Part I: Introduction & Fundamentals
