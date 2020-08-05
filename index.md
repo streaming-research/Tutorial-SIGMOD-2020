@@ -21,7 +21,7 @@ Stream processing has been an active research field for more than 20 years, but 
 
 ## Presenters
 
-- [Paris Carbone](https://www.ri.se/en/paris-carbone) (RISE)
+- [Paris Carbone](https://www.ri.se/en/paris-carbone) (KTH Royal Institute of Technology, RISE Research Institutes of Sweden)
 - [Marios Fragkoulis](http://mariosfragkoulis.gr/) (Delft University of Technology)
 - [Vasiliki Kalavri](https://cs-people.bu.edu/vkalavri/) (Boston University)
 - [Asterios Katsifodimos](http://asterios.katsifodimos.com/) (Delft University of Technology)
