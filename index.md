@@ -50,3 +50,5 @@ pages = {2651–2658}
 ```
 
 ## Related Papers
+
+- [[arXiv](https://arxiv.org/pdf/2008.00842.pdf)] A Survey on the Evolution of Stream Processing Systems
